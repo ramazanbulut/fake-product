@@ -1,354 +1,49 @@
-{"products":[
+{
+  "Products": [
     {
-    "id": {
-      "$oid": "5f43b7c92bbc25000ae9114e"
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
+      "name": "Sport Shoes",
+      "price": 110
     },
-    "deleted": false,
-    "categoryIds": [
-      {
-        "$oid": "5f4911b3222a876377806480"
-      },
-      {
-        "$oid": "5f4911b5222a87637780648a"
-      },
-      {
-        "$oid": "5f4911c1222a8763778064e5"
-      }
-    ],
-    "categoryList": [
-      "Meyve, Sebze",
-      "Meyve",
-      "Egzotik Meyveler"
-    ],
-    "brandId": {
-      "$oid": "5f3d3855e44e8b000acff226"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
+      "name": "Red SNEAKER",
+      "price": 91
     },
-    "brandName": "reyondan",
-    "name": "Muz İthal Kg",
-    "category": "Egzotik Meyveler",
-    "isParent": true,
-    "createdAt": {
-      "$date": "2020-08-24T12:51:21.906Z"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
+      "name": "Sport Shoes Women",
+      "price": 94
     },
-    "prices": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91152"
-        },
-        "store": "migros",
-        "storeId": {
-          "$oid": "5f3b9dfbfbc44e000aea45e8"
-        },
-        "price": 17.99,
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.435Z"
-        }
-      }
-    ],
-    "images": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91150"
-        },
-        "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27271000/muz-ithal-kg-3a8f26.jpg",
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.320Z"
-        }
-      }
-    ],
-    "similarProducts": [],
-    "siblings": [],
-    "__v": 0,
-    "updatedAt": {
-      "$date": "2020-09-02T10:15:04.214Z"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
+      "name": "Winter boots children",
+      "price": 143
     },
-    "updatedBy": null,
-    "categoryId": {
-      "$oid": "5f4911c1222a8763778064e5"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
+      "name": "Sports shoes Red-White",
+      "price": 150
     },
-    "barcode": "YOK"
-  },{
-    "id": {
-      "$oid": "5f43b7ca2bbc25000ae91153"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
+      "name": "Black leather shoes",
+      "price": 250
     },
-    "deleted": false,
-    "categoryIds": [
-      {
-        "$oid": "5f4911b3222a876377806480"
-      },
-      {
-        "$oid": "5f4911b5222a87637780648a"
-      },
-      {
-        "$oid": "5f4911c1222a8763778064e7"
-      }
-    ],
-    "categoryList": [
-      "Meyve, Sebze",
-      "Meyve",
-      "Narenciye"
-    ],
-    "brandId": {
-      "$oid": "5f3d3855e44e8b000acff226"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
+      "name": "Shoes Canvas",
+      "price": 50
     },
-    "brandName": "reyondan",
-    "name": "Limon Kg",
-    "category": "Narenciye",
-    "isParent": true,
-    "createdAt": {
-      "$date": "2020-08-24T12:51:22.480Z"
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
+      "name": "Shoes White",
+      "price": 85
     },
-    "prices": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91157"
-        },
-        "store": "migros",
-        "storeId": {
-          "$oid": "5f3b9dfbfbc44e000aea45e8"
-        },
-        "price": 13.99,
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.577Z"
-        }
-      }
-    ],
-    "images": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91155"
-        },
-        "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27260002/limon-kg-fbc52a.jpg",
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.520Z"
-        }
-      }
-    ],
-    "similarProducts": [],
-    "siblings": [],
-    "__v": 0,
-    "updatedAt": {
-      "$date": "2020-09-02T11:34:10.656Z"
-    },
-    "updatedBy": null,
-    "categoryId": {
-      "$oid": "5f4911c1222a8763778064e7"
-    },
-    "barcode": "YOK"
-  },{
-    "id": {
-      "$oid": "5f43b7ca2bbc25000ae91158"
-    },
-    "deleted": false,
-    "categoryIds": [
-      {
-        "$oid": "5f4911b3222a876377806480"
-      },
-      {
-        "$oid": "5f4911b5222a87637780648a"
-      },
-      {
-        "$oid": "5f4911c1222a8763778064e9"
-      }
-    ],
-    "categoryList": [
-      "Meyve, Sebze",
-      "Meyve",
-      "Yumuşak Meyveler"
-    ],
-    "brandId": {
-      "$oid": "5f3d3855e44e8b000acff226"
-    },
-    "brandName": "reyondan",
-    "name": "Üzüm Çekirdeksiz Kg",
-    "category": "Yumuşak Meyveler",
-    "isParent": true,
-    "createdAt": {
-      "$date": "2020-08-24T12:51:22.600Z"
-    },
-    "prices": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae9115c"
-        },
-        "store": "migros",
-        "storeId": {
-          "$oid": "5f3b9dfbfbc44e000aea45e8"
-        },
-        "price": 4.95,
-        "oldPrice": 6.99,
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.775Z"
-        }
-      }
-    ],
-    "images": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae9115a"
-        },
-        "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27332000/uzum-cekirdeksiz-kg-0071f1.jpg",
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.676Z"
-        }
-      }
-    ],
-    "similarProducts": [],
-    "siblings": [],
-    "__v": 0,
-    "updatedAt": {
-      "$date": "2020-09-03T09:34:33.339Z"
-    },
-    "updatedBy": null,
-    "categoryId": {
-      "$oid": "5f4911c1222a8763778064e9"
-    },
-    "barcode": "YOK"
-  },{
-    "id": {
-      "$oid": "5f43b7ca2bbc25000ae9115d"
-    },
-    "deleted": false,
-    "categoryIds": [
-      {
-        "$oid": "5f4911b3222a876377806480"
-      },
-      {
-        "$oid": "5f4911b5222a87637780648a"
-      },
-      {
-        "$oid": "5f4911c1222a8763778064e7"
-      }
-    ],
-    "categoryList": [
-      "Meyve, Sebze",
-      "Meyve",
-      "Narenciye"
-    ],
-    "brandId": {
-      "$oid": "5f3d3855e44e8b000acff226"
-    },
-    "brandName": "reyondan",
-    "name": "Portakal Sıkma File Kg",
-    "category": "Narenciye",
-    "isParent": true,
-    "createdAt": {
-      "$date": "2020-08-24T12:51:22.785Z"
-    },
-    "prices": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91161"
-        },
-        "store": "migros",
-        "storeId": {
-          "$oid": "5f3b9dfbfbc44e000aea45e8"
-        },
-        "price": 11.99,
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.884Z"
-        }
-      }
-    ],
-    "images": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae9115f"
-        },
-        "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27300001/portakal-sikma-file-kg-ort-3-kg-1717ca.jpg",
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.821Z"
-        }
-      }
-    ],
-    "similarProducts": [],
-    "siblings": [],
-    "__v": 0,
-    "updatedAt": {
-      "$date": "2020-09-03T10:55:45.212Z"
-    },
-    "updatedBy": null,
-    "categoryId": {
-      "$oid": "5f4911c1222a8763778064e7"
-    },
-    "barcode": "YOK"
-  },{
-    "id": {
-      "$oid": "5f43b7ca2bbc25000ae91162"
-    },
-    "deleted": false,
-    "categoryIds": [
-      {
-        "$oid": "5f4911b3222a876377806480"
-      },
-      {
-        "$oid": "5f4911b5222a87637780648a"
-      },
-      {
-        "$oid": "5f4911c1222a8763778064e9"
-      }
-    ],
-    "categoryList": [
-      "Meyve, Sebze",
-      "Meyve",
-      "Yumuşak Meyveler"
-    ],
-    "brandId": {
-      "$oid": "5f3d3855e44e8b000acff226"
-    },
-    "brandName": "reyondan",
-    "name": "Çilek Kg",
-    "category": "Yumuşak Meyveler",
-    "isParent": true,
-    "createdAt": {
-      "$date": "2020-08-24T12:51:22.896Z"
-    },
-    "prices": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91166"
-        },
-        "store": "migros",
-        "storeId": {
-          "$oid": "5f3b9dfbfbc44e000aea45e8"
-        },
-        "price": 13.5,
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.998Z"
-        }
-      }
-    ],
-    "images": [
-      {
-        "deleted": false,
-        "id": {
-          "$oid": "5f43b7ca2bbc25000ae91164"
-        },
-        "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27081000/27081000-7e292e.jpg",
-        "createdAt": {
-          "$date": "2020-08-24T12:51:22.929Z"
-        }
-      }
-    ],
-    "similarProducts": [],
-    "siblings": [],
-    "__v": 0,
-    "updatedAt": {
-      "$date": "2020-09-03T12:22:24.202Z"
-    },
-    "updatedBy": null,
-    "categoryId": {
-      "$oid": "5f4911c1222a8763778064e9"
-    },
-    "barcode": "8692582210025"
-  }]
+    {
+      "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
+      "name": "Sneakers Yellow",
+      "price": 125
+    }    
+  ]
 }
