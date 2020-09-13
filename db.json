@@ -33,7 +33,7 @@
     "prices": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91152"
         },
         "store": "migros",
@@ -49,7 +49,7 @@
     "images": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91150"
         },
         "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27271000/muz-ithal-kg-3a8f26.jpg",
@@ -70,7 +70,7 @@
     },
     "barcode": "YOK"
   },{
-    "_id": {
+    "id": {
       "$oid": "5f43b7ca2bbc25000ae91153"
     },
     "deleted": false,
@@ -103,7 +103,7 @@
     "prices": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91157"
         },
         "store": "migros",
@@ -119,7 +119,7 @@
     "images": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91155"
         },
         "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27260002/limon-kg-fbc52a.jpg",
@@ -140,7 +140,7 @@
     },
     "barcode": "YOK"
   },{
-    "_id": {
+    "id": {
       "$oid": "5f43b7ca2bbc25000ae91158"
     },
     "deleted": false,
@@ -173,7 +173,7 @@
     "prices": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae9115c"
         },
         "store": "migros",
@@ -190,7 +190,7 @@
     "images": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae9115a"
         },
         "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27332000/uzum-cekirdeksiz-kg-0071f1.jpg",
@@ -211,7 +211,7 @@
     },
     "barcode": "YOK"
   },{
-    "_id": {
+    "id": {
       "$oid": "5f43b7ca2bbc25000ae9115d"
     },
     "deleted": false,
@@ -244,7 +244,7 @@
     "prices": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91161"
         },
         "store": "migros",
@@ -260,7 +260,7 @@
     "images": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae9115f"
         },
         "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27300001/portakal-sikma-file-kg-ort-3-kg-1717ca.jpg",
@@ -281,7 +281,7 @@
     },
     "barcode": "YOK"
   },{
-    "_id": {
+    "id": {
       "$oid": "5f43b7ca2bbc25000ae91162"
     },
     "deleted": false,
@@ -314,7 +314,7 @@
     "prices": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91166"
         },
         "store": "migros",
@@ -330,7 +330,7 @@
     "images": [
       {
         "deleted": false,
-        "_id": {
+        "id": {
           "$oid": "5f43b7ca2bbc25000ae91164"
         },
         "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/27081000/27081000-7e292e.jpg",
